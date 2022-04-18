@@ -13,11 +13,16 @@
         <p class =></p>
     </header>
     <main>
+        <div id="startDiv">
         <h1>Coding Quiz Chanllenge</h1>
-        <p id="questionP">Try to answer the following code-related questions within the time limit. Keep in mind that incorrect answers will penalize your score/time by ten seconds</p>
-        <form action="">
-            <button id="startQ">Start Quiz</button>
-        </form>
+        <p id="timer"></p>
+        <p>Try to answer the following code-related questions within the time limit. Keep in mind that incorrect answers will penalize your score/time by ten seconds</p>
+        <button id="startQ">Start Quiz</button>
+    </div>
+    <div id="questionDiv" class="invisible">
+        <h3 id="questionP"></h3>
+        <button id="answer1"></button>
+    </div>
     </main>
  
     <script src="./assets/script.js"></script>
