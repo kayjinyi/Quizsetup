@@ -22,6 +22,7 @@ The deployed web is https://kayjinyi.github.io/Quizsetup/
 The following image shows the web application's appearance and functionality:
 
 
-![This is a Quiz".](./assets/screenShot.png)
+![This is a quiz](./assets/images/Screen%20Shot%202022-04-17%20at%209.49.14%20PM.png)
+
 
 
