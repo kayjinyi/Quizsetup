@@ -9,19 +9,29 @@
 </head>
 <body>
     <header>
-        <a href="">View Highestscores</a>
+        <a href="highestScore.html">View Highestscores</a>
+        <p id="timer"></p>
         <p class =></p>
     </header>
     <main>
         <div id="startDiv">
         <h1>Coding Quiz Chanllenge</h1>
-        <p id="timer"></p>
+ 
         <p>Try to answer the following code-related questions within the time limit. Keep in mind that incorrect answers will penalize your score/time by ten seconds</p>
         <button id="startQ">Start Quiz</button>
     </div>
     <div id="questionDiv" class="invisible">
         <h3 id="questionP"></h3>
         <p id="answer1"></p>
+        <p id="answer2"></p>
+        <p id="answer3"></p>
+        <p id="answer4"></p>
+    </div>
+    <div id = "winOrlose">
+    </div>
+    <div id="gameOver" class = "invisible">
+<input id = "initial"placeholder ="initial" type="text">
+<button id = "submitBtn" type ="button">Submit</button>
     </div>
     </main>
  
