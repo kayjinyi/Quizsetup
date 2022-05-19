@@ -78,7 +78,7 @@ function buttonClicked(event) {
     document.querySelector("#winOrlose").textContent = "You win";
   } else {
     document.querySelector("#winOrlose").textContent = "You lose";
-    timeLeft -= 20;
+    timeLeft -= 10;
   }
   //check if answer is correct --- event.target.textContent compare with questions[qNum].answer
   //if wrong subtract from the time

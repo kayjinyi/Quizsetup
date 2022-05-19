@@ -42,7 +42,7 @@ Using JavaScript to create an interactive timed quiz
 ## Mock-Up
 
 The following images show the web application's appearance and functionality:
-![This is a quiz](./assets/images/Screen%20Shot%202022-04-17%20at%209.49.14%20PM.png)
+![This is a quiz](./assets/2.gif)
 
 ---
 
